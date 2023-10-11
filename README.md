@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @turrrruuuu
 - 👀 I’m interested in ... being lazy
-- 🌱 I’m currently learning JS, React, C, C++
+- 🌱 I’m currently learning JS, React, C, C++, C#
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me 80200507
+- 📫 How to reach me 4244751117
 
 <!---
 turrrruuuu/turrrruuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
